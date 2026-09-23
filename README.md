@@ -28,8 +28,23 @@ The main purpose of this project is to provide a simple computerized solution fo
 
 ## Screenshots
 
-Screenshots of the system are included in this repository to demonstrate the main interfaces and functionalities.
+### Login Page
+![Login Page](Login%20page.png)
 
+### Dashboard
+![Dashboard](Dashboard.png)
+
+### Add Medicine
+![Add Medicine](Add%20Medicine.png)
+
+### Add User
+![Add User](Add%20User.png)
+
+### View User
+![View User](View%20User.png)
+
+### Profile
+![Profile](Profile.png)
 ## How to Run
 
 1. Download or clone this repository.
